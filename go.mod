@@ -1,3 +1,3 @@
-module github.com/manothelionarmy/learn-go-packages
+module github.com/manofthelionarmy/learn-go-packages
 
 go 1.15
