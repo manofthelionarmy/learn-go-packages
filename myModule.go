@@ -3,5 +3,5 @@ package myModule
 import "fmt"
 
 func Version() {
-	fmt.Println("version 1")
+	fmt.Println("using 2.0.0")
 }
